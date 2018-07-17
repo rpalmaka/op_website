@@ -162,7 +162,7 @@ h1 {
     font-size: 4.375rem;
     line-height: 4rem;
     font-weight: 300;
-    font-family: 'Slim Joe';
+    font-family: 'Slim Joe', sans-serif;
     color:#fff;
 }
 h2 {
