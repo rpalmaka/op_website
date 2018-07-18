@@ -565,14 +565,14 @@ ul#menu.nav.navbar-nav{
     color: #fff;
     display: inline-block;
     height: 46px;
-    line-height: 42px;
+    line-height: 40px;
     width: 30px;
     text-align: center;
     border-radius: 0px 30px 30px 0px;
     margin-left: -4px;
 }
 .header .navbar-form .form-group a.btn_buy{
-    background: #835FA9;
+    background: #10c9da;
     height: 46px;
     width: 120px;
     color: #fff;
