@@ -20,6 +20,10 @@ body {
     font-weight: 300;
 }
 
+@font-face {
+    src: url(../assets/fonts/Slim_Joe_Copy.otf);
+    font-family: Slim;
+}
 
 /*==========================================
 PRE LOADER
@@ -157,10 +161,6 @@ h5 {
     font-weight: 300;
     margin: 0;
     line-height: 2rem;
-}
-@font-face {
-    src: url(../assets/fonts/'Slim Joe.otf');
-    font-family:Slim;
 }
 
 h1 {
@@ -637,9 +637,13 @@ ul#menu.nav.navbar-nav{
 }
 
 .home .main_home h1{
-    color: #fff;
+    font-size: 4.375rem;
     line-height: 6rem;
+    font-weight: 300;
+    font-family: 'Slim', sans-serif; 
     padding-bottom: 25px;
+    color: #0800a0;   
+	
 }
 
 .home .main_home p{
