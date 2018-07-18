@@ -626,7 +626,7 @@ ul#menu.nav.navbar-nav{
 
 /*home section*/
 .home{
-    background: url(../images/study_unsplash.jpg) no-repeat 100% 100%;
+    /*background: url(../images/study_unsplash.jpg) no-repeat 100% 100%; */
     background-size: cover;
 
 }
