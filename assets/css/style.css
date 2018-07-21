@@ -653,6 +653,7 @@ ul#menu.nav.navbar-nav{
 /*about section css*/
 .about{
     background: #0800a0;
+    background: url(../assets/images/home_gradient.png);
     height: 500px;
 
 }
