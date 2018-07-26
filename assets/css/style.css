@@ -540,7 +540,7 @@ ul#menu.nav.navbar-nav{
 
 }
 .header .navbar {
-    min-height: 80px;
+    min-height: 65px;
     margin-bottom: 0px;
 
 }
@@ -574,7 +574,7 @@ ul#menu.nav.navbar-nav{
 .header .navbar-form .form-group a.btn_buy{
     background: #10c9da;
     height: 46px;
-    width: 120px;
+    width: 180px;
     color: #fff;
     display: inline-block;
     line-height: 46px;
@@ -640,7 +640,7 @@ ul#menu.nav.navbar-nav{
     font-size: 4.375rem;
     line-height: 6rem;
     font-weight: 300;
-    font-family: 'Courgette', cursive; 
+    font-family: 'Nunito', sans-serif; 
     padding-bottom: 25px;
     color: #0800a0;   
 	
