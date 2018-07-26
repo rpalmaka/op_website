@@ -20,9 +20,9 @@ body {
     font-weight: 300;
 }
 
-@font-face {
-    src: 'assets/fonts/Slim_Joe_Copy.otf';
-    font-family: Slim;
+/* @font-face { */
+/*     src: 'assets/fonts/Slim_Joe_Copy.otf'; */
+/*     font-family: Slim; */
 }
 
 /*==========================================
@@ -167,7 +167,7 @@ h1 {
     font-size: 4.375rem;
     line-height: 4rem;
     font-weight: 300;
-    font-family: 'Slim', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
     color:#0800a0;
 }
 h2 {
