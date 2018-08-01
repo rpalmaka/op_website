@@ -642,8 +642,10 @@ ul#menu.nav.navbar-nav{
     font-weight: 300;
     font-family: 'Nunito', sans-serif; 
     padding-bottom: 25px;
-    color: #10c9da;   
-	
+    color: #10c9da;
+/*     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ffffff;	
 }
 
 .home .main_home p{
