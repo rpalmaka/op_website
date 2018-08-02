@@ -698,7 +698,9 @@ content: "";
     border-radius: 47px;
 }
 
-.single_feature{}
+.single_feature{
+    padding-top: 70px; 
+}
 .single_feature h3{}
 .single_feature h5.subtitle{}
 .single_feature p{
